@@ -1,0 +1,9 @@
+D:\studing_in_WUT\SEMESTER_6\Comp Graphics\Task5\Project5\Project5\bin\Debug\Project5.exe.config
+D:\studing_in_WUT\SEMESTER_6\Comp Graphics\Task5\Project5\Project5\bin\Debug\Project5.exe
+D:\studing_in_WUT\SEMESTER_6\Comp Graphics\Task5\Project5\Project5\bin\Debug\Project5.pdb
+D:\studing_in_WUT\SEMESTER_6\Comp Graphics\Task5\Project5\Project5\obj\Debug\Project5.csprojAssemblyReference.cache
+D:\studing_in_WUT\SEMESTER_6\Comp Graphics\Task5\Project5\Project5\obj\Debug\Project5.Form1.resources
+D:\studing_in_WUT\SEMESTER_6\Comp Graphics\Task5\Project5\Project5\obj\Debug\Project5.Properties.Resources.resources
+D:\studing_in_WUT\SEMESTER_6\Comp Graphics\Task5\Project5\Project5\obj\Debug\Project5.csproj.GenerateResource.cache
+D:\studing_in_WUT\SEMESTER_6\Comp Graphics\Task5\Project5\Project5\obj\Debug\Project5.exe
+D:\studing_in_WUT\SEMESTER_6\Comp Graphics\Task5\Project5\Project5\obj\Debug\Project5.pdb
